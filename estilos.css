@@ -1,0 +1,129 @@
+.contenedor{
+	position: relative;
+	background: grey;
+}
+
+.uno{
+	float:left;
+	width: 200px;
+	height: 500px;
+	background: #FAFAFA;
+	margin: 3px;
+	position: relative;
+	top:10px;
+	border: 1px solid grey;
+	border-right: 3px solid grey;
+	border-bottom: 3px solid grey;
+}
+.avion{
+	width: 150px;
+	margin: 25px;
+}
+
+.dos{
+	float:left;
+	width: 200px;
+	height: 500px;
+	background: #FAFAFA;
+	margin: 3px;
+	position: relative;
+	top:10px;
+	border: 1px solid grey;
+	border-right: 3px solid grey;
+	border-bottom: 3px solid grey;
+}
+.diamante{
+	width: 150px;
+	margin: 25px;
+}
+.tres{
+	float:left;
+	width: 207px;
+	height: 520px;
+	background: white;
+	margin: 3px;
+	position: relative;
+	border: 1px solid grey;
+	border-right: 3px solid grey;
+	border-bottom: 3px solid grey;
+}
+.tercero{
+	color:#A3E4D7;
+}
+
+.corazon{
+	width: 180px;
+	margin: 10px;
+}
+.cuatro{
+	float:left;
+	width: 200px;
+	height: 500px;
+	background: #FAFAFA;
+	margin: 3px;
+	position: relative;
+	top:10px;
+	border: 1px solid grey;
+	border-right: 3px solid grey;
+	border-bottom: 3px solid grey;
+}
+.cafe{
+	width: 150px;
+	height: 150px;
+	margin: 25px;
+}
+.cinco{
+	float:left;
+	width: 200px;
+	height: 500px;
+	background: #FAFAFA;
+	margin: 3px;
+	position: relative;
+	top:10px;
+	border: 1px solid grey;
+	border-right: 3px solid grey;
+	border-bottom: 3px solid grey;
+}
+.sopa{
+	width: 150px;
+	margin: 25px;
+}
+
+h2{
+	color: #CFD8DC;
+	text-align: center;
+	position: relative;
+	padding-top:5px;
+	padding-bottom: 2px; 
+	font-family: 'Cookie';
+}
+h3{
+	color: #CFD8DC;
+	text-align: center;
+	position: relative;
+	padding-top:5px;
+	padding-bottom: 2px; 
+	font-family: 'Cookie';
+} 
+h4{
+	color: #CFD8DC;
+	text-align: center;
+	position: relative;
+	padding-top:5px;
+	padding-bottom: 2px; 
+	font-family: 'Cookie';
+}
+.cuarto{
+	padding-top: 13px;
+}
+
+p{
+	text-align: center;
+	margin: 0.4em;
+	color:#76D7C4;
+	position: relative;
+	padding-bottom: 40px; 
+	font-family: 'Courgette';
+	font-weight: 100;
+}
+
